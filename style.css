@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+    text-decoration: red;
+    font-weight: 20px;
+}
+h3 {
+    color: blue;
+    font-weight: 10px;
+}
+p {
+    background-color: grey;
+}
+strong {
+    color: yellowgreen;
+    text-decoration: none;
+}
+em {
+    text-decoration: underline;
+    font-size: large;
+    color: orange;
+    font-style: normal;
+}
