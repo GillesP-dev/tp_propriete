@@ -1,6 +1,6 @@
 h1 {
     text-align: center;
-    text-decoration: red;
+    color: red;
     font-weight: 20px;
 }
 h3 {
@@ -20,4 +20,11 @@ em {
     color: orange;
     font-style: normal;
 }
-article h3
+article:last-child p {
+    background-color: rgb(233, 180, 180);
+}
+article:nth-child(odd) h3 {
+color: green;
+text-decoration: underline;
+text-align: right;
+}
